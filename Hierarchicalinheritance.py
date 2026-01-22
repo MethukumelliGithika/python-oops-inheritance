@@ -30,7 +30,7 @@ class CurrentAccount(BankAccount):
 
 # Object creation
 s1 = SavingsAccount("Githika", 5000, 5)
-c1 = CurrentAccount("Anil", 10000, 2000)
+c1 = CurrentAccount("Vasavi", 10000, 2000)
 
 s1.account_info()
 s1.show_interest()
